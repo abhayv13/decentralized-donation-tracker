@@ -1,0 +1,14 @@
+# Node.js dependencies
+node_modules/
+
+# Build files
+build/
+dist/
+
+# Local development files
+.env
+.env.local
+
+# IDE specific files
+.idea/
+.vscode/
